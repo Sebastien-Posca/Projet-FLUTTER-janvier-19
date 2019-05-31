@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "741123511739",
+    "firebase_url": "https://test-8b7ee.firebaseio.com",
+    "project_id": "test-8b7ee",
+    "storage_bucket": "test-8b7ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741123511739:android:44b25484a658f09c",
+        "android_client_info": {
+          "package_name": "polytech.polymuseum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "741123511739-3bihr5a7scc57ku8i70orustf16btsbo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrv-bvPZE5VXiodHjpDwKLBA5GWWqEx_8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
